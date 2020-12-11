@@ -1,6 +1,6 @@
 # my-bast-song.sh
 
-# $- https://github.com/blacktiger147/my-bast-song.sh
+# $- git clone https://github.com/blacktiger147/my-bast-song.sh
 # $- cd
 # $- ls
 # $- chmod +x *
